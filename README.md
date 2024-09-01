@@ -20,4 +20,6 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine. You
 ```sh
 node -v
 
+end
+
 ![image](https://github.com/user-attachments/assets/11f4004f-75bd-451d-81dc-7cdcf44a04cd)
